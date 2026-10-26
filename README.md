@@ -5,12 +5,12 @@ An interactive Tableau dashboard analyzing global fuel price fluctuations (Petro
 ---
 
 ## 📊 Live Interactive Dashboard
-👉 **[View the Live Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_URL_HERE)**
+👉 **[View the Live Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Capstone_Project_17928502166880/GlobalFuelDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Image/preview.png)
 
 ---
 
@@ -41,4 +41,4 @@ An interactive Tableau dashboard analyzing global fuel price fluctuations (Petro
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/global-fuel-prices-tableau.git](https://github.com/YOUR_USERNAME/global-fuel-prices-tableau.git)
+   git clone [https://github.com/Naitik-J2369/global-fuel-prices-tableau.git](https://github.com/Naitik-J2369/global-fuel-prices-tableau.git)
